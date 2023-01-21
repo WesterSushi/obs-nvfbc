@@ -1,6 +1,6 @@
 # obs-nvfbc
 
-> **WARNING!! THIS IS A FORK FROM [GITLAB]([A fork from gitlab obs-nvfbc](https://gitlab.com/fzwoch/obs-nvfbc))**
+> **WARNING!! THIS IS A FORK FROM [GITLAB](https://gitlab.com/fzwoch/obs-nvfbc)**
 
 OBS Studio source plugin using NVIDIA's FBC API for Linux.
 
